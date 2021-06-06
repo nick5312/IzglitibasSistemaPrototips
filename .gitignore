@@ -1,0 +1,6 @@
+Server/node_modules
+Server/data.db
+Server/yarn.lock
+
+App/node_modules
+App/yarn.lock
